@@ -5,15 +5,13 @@ let userAge = '26';
 const myboolean = true;
 const mynull = null;
 
-const myhobby = "coding",
-      yearOfBirth = "1996",  
-      currentYear = "2023";
+const myhobby = "coding";
+const yearOfBirth = "1996"; 
+const currentYear = "2023";
       
 
-console.log("typeof myHobby", typeof myHobby);
 
-
-const result = `username is ${irakli} + myHobby ${coding} + yearofbirth ${1996}`;
+const result = "username is ${irakli} + myHobby ${coding} + yearofbirth ${1996}";
 console.log(result);
 
  
